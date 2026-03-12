@@ -21,7 +21,7 @@
     margin-inline: auto;
     /*border: solid violet;*/
 }
-.destok-only {
+.desktop-only {
     display: none;
 }
 
@@ -55,7 +55,7 @@
         --max-width: 80rem;
     }
 
-    .destok-only {
+    .desktop-only {
         display: initial;
     }
 
